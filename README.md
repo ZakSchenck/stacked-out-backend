@@ -3,10 +3,10 @@
 If you would like to see the frontend, click this link: https://github.com/ZakSchenck/stacked-out-frontend
 
 ## Backend Tools
-• PostgreSQL
-• Node.js
-• Express.js
-• Express Router
+• PostgreSQL <br />
+• Node.js <br />
+• Express.js <br />
+• Express Router <br />
 
 ## More Information
 This application is still being updated and maintained. I plan on implementing a comments section to each listing, as well as adding PUT requests.
